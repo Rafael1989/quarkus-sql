@@ -1,1 +1,6 @@
 mvn -T 1C test // para executar em paralelo os testes, 1 por core
+orm.xml É PARA REGISTRAR A ENTIDADE
+panache-archive.marker É PARA REGISTRAR A ENTIDADE
+mvn clean install -Dmaven.test.skip=true
+QUANDO QUARKUS START ELE PROCURA import.sql, automatico
+http://localhost:8080/q/swagger-ui

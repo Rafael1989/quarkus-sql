@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/artist/pom.xml" />
         <option value="$PROJECT_DIR$/customer/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/vintage-store/pom.xml" />
       </list>
     </option>
